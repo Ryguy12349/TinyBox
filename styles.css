@@ -1,0 +1,8 @@
+.TinyBox {
+  background-color: rgb(76, 76, 76);
+  width: 200px;
+  border: 15px solid rgb(49, 49, 49);
+  border-radius: 15px;
+  padding: 10px 5px 5px 20px;
+  margin: 20px;
+}
